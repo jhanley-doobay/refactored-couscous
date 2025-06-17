@@ -1,0 +1,26 @@
+{
+  "name": "refactored-couscous",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jhanley-doobay/refactored-couscous.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jhanley-doobay/refactored-couscous/issues"
+  },
+  "homepage": "https://github.com/jhanley-doobay/refactored-couscous#readme",
+  "dependencies": {
+    "@slack/bolt": "^4.4.0"
+  },
+  "devDependencies": {
+    "dotenv": "^16.5.0"
+  }
+}
